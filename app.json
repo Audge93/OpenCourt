@@ -8,7 +8,7 @@
     "platforms": ["ios", "android", "web"],
     "web": {
       "bundler": "metro",
-      "output": "static",
+      "output": "single",
       "favicon": "./assets/OC_Small_Logo.png"
     },
     "splash": {
